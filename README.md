@@ -21,8 +21,9 @@
 
 
 ### Connect with me:
-[<img align="left" alt="Pinchuk Vitaly| LinkedIn" width="48px" src="https://github.com/PinchukVA/PinchukVA/blob/main/img/linkid.png" />][linkedin]
-
+[<img align="left" alt="Pinchuk Vitaly| LinkedIn" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" />][linkedin]
+<br />
+<br />    
 <br />
 <br />  
   
