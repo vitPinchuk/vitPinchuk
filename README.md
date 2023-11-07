@@ -28,10 +28,7 @@
 <br />  
   
 #### Statistics:
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vitPinchuk&show_icons=true&theme=dracula" />
-
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitPinchuk&langs_count=8&theme=dracula" />
-
-
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vitPinchuk" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitPinchuk&layout=donut" />
 
 [linkedin]: https://www.linkedin.com/in/pin4
