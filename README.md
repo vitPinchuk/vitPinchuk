@@ -1,4 +1,4 @@
-# Hey 👋, I'm Vitaly Pinchuk!  
+# Hey 👋, I'm Vitali Pinchuk!  
 
 ### Connect with me:
 [<img align="left" alt="Pinchuk Vitaly| LinkedIn" height="80px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" />][linkedin]
